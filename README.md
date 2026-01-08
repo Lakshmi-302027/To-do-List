@@ -31,3 +31,6 @@ A responsive Todo List app built with vanilla **HTML5**, **CSS3**, and **JavaScr
 - Hover transitions
 - Real-time updates
 - Portfolio-ready project
+
+## Live Demo
+- live at : https://lakshmi-302027.github.io/To-do-List/
