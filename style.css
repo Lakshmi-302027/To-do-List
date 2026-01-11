@@ -201,3 +201,33 @@ body {
   color: #6c757d;
   font-style: italic;
 }
+.task-input {
+  flex: 1;
+  font-size: 18px;
+  padding: 10px;
+  border: 2px solid #ffefbc;
+  background: #ffefbc;
+  border-radius: 5px;
+  outline: none;
+}
+.btn-save {
+  background: #10b981;
+  color: white;
+  padding: 8px 12px;
+  font-size: 14px;
+}
+.btn-save:hover {
+  background: #059669;
+}
+.btn-cancel {
+  background: #6b7280;
+  color: white;
+  padding: 8px 12px;
+  font-size: 14px;
+}
+.btn-cancel:hover {
+  background: #4b5563;
+}
+.editing .task-actions {
+  gap: 5px;
+}
