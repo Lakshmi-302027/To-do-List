@@ -1,6 +1,6 @@
 # 📝 Todo App
 
-A responsive single-file Todo List app built with vanilla **HTML5**, **CSS3**, and **JavaScript ES6+**. Features localStorage persistence, task CRUD, filters (All/Active/Completed), stats, mobile-responsive design with animations.
+A responsive Todo List app built with vanilla **HTML5**, **CSS3**, and **JavaScript ES6+**. Features localStorage persistence, task CRUD, filters (All/Active/Completed), stats, mobile-responsive design with animations.
 
 ## ✨ Features
 - ➕ **Add** tasks (Enter/Add button)
@@ -31,3 +31,6 @@ A responsive single-file Todo List app built with vanilla **HTML5**, **CSS3**, a
 - Hover transitions
 - Real-time updates
 - Portfolio-ready project
+
+## Live Demo
+- live at : https://lakshmi-302027.github.io/To-do-List/
